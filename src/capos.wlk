@@ -41,4 +41,7 @@ object collarDivino {
 	
 	method ptosHechiceria(capo) = 1
 }
+object libro{
+	
+}
 
